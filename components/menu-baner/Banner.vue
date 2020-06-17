@@ -21,7 +21,7 @@ export default {
 
 <style lang="scss" scoped>
 .baner-parent {
-  background: url("https://i.picsum.photos/id/214/2729/2047.jpg")
+  background: url("https://i.picsum.photos/id/100/2500/1656.jpg?hmac=gWyN-7ZB32rkAjMhKXQgdHOIBRHyTSgzuOK6U0vXb1w")
     no-repeat center;
   background-size: cover;
   position: relative;
